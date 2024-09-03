@@ -6,3 +6,5 @@
 #### Task 1 and Task 2 are both using "Nat_Gas.csv"
 ---
 ### Task 3: Credit risk analysis
+### Task 4: Bucket FICO scores
+#### Task 3 and Task 4 are both using "Loan_Data.csv"
